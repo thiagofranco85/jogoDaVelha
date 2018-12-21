@@ -1,0 +1,11 @@
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\bin\Debug\JogoDaVelhaConsole.exe.config
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\bin\Debug\JogoDaVelhaConsole.exe
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\bin\Debug\JogoDaVelhaConsole.pdb
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.exe
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.pdb
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\bin\Debug\JogoDaVelhaConsole.exe.manifest
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\bin\Debug\JogoDaVelhaConsole.application
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.exe.manifest
+C:\Users\Notebook\source\repos\JogoDaVelhaConsole\JogoDaVelhaConsole\obj\Debug\JogoDaVelhaConsole.application
